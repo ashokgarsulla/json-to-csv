@@ -1,4 +1,6 @@
 # json-to-csv
+- problem statement:
+Develop a smart JSON to CSV converter that would work for any json/depth of the objects
 
 ## features :
 - read nested JSON
