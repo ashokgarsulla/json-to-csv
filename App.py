@@ -6,4 +6,4 @@ with open('MOCK_DATA.json') as json_file:
 data = pd.json_normalize(data)
 print(type(data))
 print(data.to_csv())
-data.to_csv("stackoverflow.csv")
+data.to_csv("csv_result.csv")
